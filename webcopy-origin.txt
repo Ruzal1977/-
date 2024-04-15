@@ -1,0 +1,908 @@
+Uri: https://api-maps.yandex.ru/2.1/?lang=ru_RU
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\2.1\json.txt
+Content Type: application/javascript
+
+Uri: https://booking.medflex.ru/components/round/round_widget_button.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\components\round\round_widget_button.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-1.12.0.min.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\jquery-1.12.0.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,cyrillic
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc9.ttf
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxP.ttf
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxP.ttf
+Content Type: font/ttf
+
+Uri: https://getblox.ru/BLOX.14/assets/arrow.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\arrow.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/arrowOver.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\arrowOver.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/blox.dropdown-menu.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\blox.dropdown-menu.css
+Content Type: text/css
+
+Uri: https://getblox.ru/BLOX.14/assets/blox.loader.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\blox.loader.css
+Content Type: text/css
+
+Uri: https://getblox.ru/BLOX.14/assets/blox.loader.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\blox.loader.js
+Content Type: application/javascript
+
+Uri: https://getblox.ru/BLOX.14/assets/blox.private.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\blox.private.css
+Content Type: text/css
+
+Uri: https://getblox.ru/BLOX.14/assets/blox.public.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\blox.public.css
+Content Type: text/css
+
+Uri: https://getblox.ru/BLOX.14/assets/blox.public.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\blox.public.js
+Content Type: application/javascript
+
+Uri: https://getblox.ru/BLOX.14/assets/blox.select-menu.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\blox.select-menu.css
+Content Type: text/css
+
+Uri: https://getblox.ru/BLOX.14/assets/blox.tooltip.png
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\blox.tooltip.png
+Content Type: image/png
+
+Uri: https://getblox.ru/BLOX.14/assets/checkMark.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\checkMark.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/checkMarkOver.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\checkMarkOver.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/draggableBg.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\draggableBg.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/dragHandle.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\dragHandle.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/edit-button-wait.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\edit-button-wait.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/eye-regular.svg
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\eye-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://getblox.ru/BLOX.14/assets/eye-slash-regular.svg
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\eye-slash-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://getblox.ru/BLOX.14/assets/icon-block.png
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\icon-block.png
+Content Type: image/png
+
+Uri: https://getblox.ru/BLOX.14/assets/icon-folder-up.png
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\icon-folder-up.png
+Content Type: image/png
+
+Uri: https://getblox.ru/BLOX.14/assets/icon-folder.png
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\icon-folder.png
+Content Type: image/png
+
+Uri: https://getblox.ru/BLOX.14/assets/icon-tpl.png
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\icon-tpl.png
+Content Type: image/png
+
+Uri: https://getblox.ru/BLOX.14/assets/icon-transparent.png
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\icon-transparent.png
+Content Type: image/png
+
+Uri: https://getblox.ru/BLOX.14/assets/icon-txt.png
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\icon-txt.png
+Content Type: image/png
+
+Uri: https://getblox.ru/BLOX.14/assets/jquery.form.min.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\jquery.form.min.js
+Content Type: application/javascript
+
+Uri: https://getblox.ru/BLOX.14/assets/jquery.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\jquery.js
+Content Type: application/javascript
+
+Uri: https://getblox.ru/BLOX.14/assets/login-black.png
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\login-black.png
+Content Type: image/png
+
+Uri: https://getblox.ru/BLOX.14/assets/px-fff-50.png
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\px-fff-50.png
+Content Type: image/png
+
+Uri: https://getblox.ru/BLOX.14/assets/px.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\px.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/sandstoneBg.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\sandstoneBg.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/sep.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\sep.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/tree-closed-list.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\tree-closed-list.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/tree-dots.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\tree-dots.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/tree-last-dots.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\tree-last-dots.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/tree-list-item.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\tree-list-item.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/tree-open-list.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\tree-open-list.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/assets/vert-sep.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\assets\vert-sep.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/vendor/fancybox/blank.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\vendor\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/vendor/fancybox/fancybox_loading.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\vendor\fancybox\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/vendor/fancybox/fancybox_loading@2x.gif
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\vendor\fancybox\fancybox_loading@2x.gif
+Content Type: image/gif
+
+Uri: https://getblox.ru/BLOX.14/vendor/fancybox/fancybox_overlay.png
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\vendor\fancybox\fancybox_overlay.png
+Content Type: image/png
+
+Uri: https://getblox.ru/BLOX.14/vendor/fancybox/fancybox_sprite.png
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\vendor\fancybox\fancybox_sprite.png
+Content Type: image/png
+
+Uri: https://getblox.ru/BLOX.14/vendor/fancybox/fancybox_sprite@2x.png
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\vendor\fancybox\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: https://getblox.ru/BLOX.14/vendor/fancybox/jquery.fancybox.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\vendor\fancybox\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://getblox.ru/BLOX.14/vendor/fancybox/jquery.fancybox.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\vendor\fancybox\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: https://getblox.ru/BLOX.14/vendor/fancybox/jquery.fancybox.settings.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\BLOX.14\vendor\fancybox\jquery.fancybox.settings.js
+Content Type: application/javascript
+
+Uri: https://psiprofi-medcentr.ru/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=a29udGFrdHkv
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-15.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=bGljZW56aWktc2VydGlmaWthdHkv
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-13.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=bmFzaGktc3BlY2lhbGlzdHkv
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-12.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=dXNsdWdpL2tvbnN1bHRhY2lqYS12cmFjaGEtcHNpaG90ZXJhcGV2dGEv
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-3.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=dXNsdWdpL2tvbnN1bHRhY2lqYS12cmFjaGEtcHNpaGlhdHJhLw
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-4.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=dXNsdWdpL2tvbnN1bHRhY2lqYS1tZWRpY2luc2tvZ28tcHNpaG9sb2dhLw
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-5.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=dXNsdWdpL2tvZGlyb3ZhbmllLW90LWFsa29nb2xub2otemF2aXNpbW9zdGkv
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-8.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=dXNsdWdpL2tvZGlyb3ZhbmllLW90LXRhYmFjaG5vai16YXZpc2ltb3N0aS8
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-9.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=dXNsdWdpL2xlY2hlbmllLWFsa29nb2xub2otemF2aXNpbW9zdGktcHJlcGFyYXRvbS1kaXN1bGZpcmFtLw
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-10.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=dXNsdWdpL3ByaWVtLXZyYWNoYS1uZXZyb2xvZ2Ev
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-7.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=dXNsdWdpL3ByaWVtLXZyYWNoYS1vc3Rlb3BhdGEv
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-6.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=dXNsdWdpL3Z5ZXpkLXBzaWhpYXRyYS1uYS1kb20v
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-11.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=dXNsdWdpLw
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-2.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?login&pagehref=Y2VueS8
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-14.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-16.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=a29udGFrdHkv
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-30.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=bGljZW56aWktc2VydGlmaWthdHkv
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-28.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=bmFzaGktc3BlY2lhbGlzdHkv
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-27.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=dXNsdWdpL2tvbnN1bHRhY2lqYS12cmFjaGEtcHNpaG90ZXJhcGV2dGEv
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-18.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=dXNsdWdpL2tvbnN1bHRhY2lqYS12cmFjaGEtcHNpaGlhdHJhLw
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-19.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=dXNsdWdpL2tvbnN1bHRhY2lqYS1tZWRpY2luc2tvZ28tcHNpaG9sb2dhLw
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-20.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=dXNsdWdpL2tvZGlyb3ZhbmllLW90LWFsa29nb2xub2otemF2aXNpbW9zdGkv
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-23.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=dXNsdWdpL2tvZGlyb3ZhbmllLW90LXRhYmFjaG5vai16YXZpc2ltb3N0aS8
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-24.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=dXNsdWdpL2xlY2hlbmllLWFsa29nb2xub2otemF2aXNpbW9zdGktcHJlcGFyYXRvbS1kaXN1bGZpcmFtLw
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-25.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=dXNsdWdpL3ByaWVtLXZyYWNoYS1uZXZyb2xvZ2Ev
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-22.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=dXNsdWdpL3ByaWVtLXZyYWNoYS1vc3Rlb3BhdGEv
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-21.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=dXNsdWdpL3Z5ZXpkLXBzaWhpYXRyYS1uYS1kb20v
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-26.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=dXNsdWdpLw
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-17.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/?password-restore&login=&pagehref=Y2VueS8
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\index-29.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/ceny/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\ceny\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/datafiles/1-konsultacija-medpsihologa-1-___1.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\1-konsultacija-medpsihologa-1-___1.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/2-konsultacija-psihiatra-4-___1.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\2-konsultacija-psihiatra-4-___1.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/3-konsultacija-psihoterapevta-2-__1_.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\3-konsultacija-psihoterapevta-2-__1_.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/4-vrach-nevrolog___1.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\4-vrach-nevrolog___1.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/5-vrach-osteopat___1.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\5-vrach-osteopat___1.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/6-ot-alkogolja-kodirovanie1___1-1.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\6-ot-alkogolja-kodirovanie1___1-1.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/6-ot-alkogolja-kodirovanie1___1.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\6-ot-alkogolja-kodirovanie1___1.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/7-kodirovanie-ot-alkogolja-preparatom__.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\7-kodirovanie-ot-alkogolja-preparatom__.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/8-kodirovanie-ot-nikotina___1.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\8-kodirovanie-ot-nikotina___1.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/926bb324876a9179435cd1b5ab57d917.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\926bb324876a9179435cd1b5ab57d917.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/9_vyzov-psihiatra-na-dom.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\9_vyzov-psihiatra-na-dom.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/banner_uzkij.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\banner_uzkij.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/citata_3.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\citata_3.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/citata_4.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\citata_4.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/diplom-gosudarstvennogo-medicinskogo-instituta.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\diplom-gosudarstvennogo-medicinskogo-instituta.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/diplom-izhevskoj-gosudarstvennoj-medicinskoj-akademii.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\diplom-izhevskoj-gosudarstvennoj-medicinskoj-akademii.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/diplom-o-professionalnoj-perepodgotovke-2-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\diplom-o-professionalnoj-perepodgotovke-2-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/diplom-o-professionalnoj-perepodgotovke.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\diplom-o-professionalnoj-perepodgotovke.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/prilozhenie-k-diplomu-1-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\prilozhenie-k-diplomu-1-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/prilozhenie-k-diplomu-2-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\prilozhenie-k-diplomu-2-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/prilozhenie-k-diplomu.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\prilozhenie-k-diplomu.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/sertifikat-specialista.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\sertifikat-specialista.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/sertifikat.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\sertifikat.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/svidetelstvo-o-prohozhdenii-povyshenija-kvalifikacii-2-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\svidetelstvo-o-prohozhdenii-povyshenija-kvalifikacii-2-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/svidetelstvo-o-prohozhdenii-povyshenija-kvalifikacii.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\svidetelstvo-o-prohozhdenii-povyshenija-kvalifikacii.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/svidetelstvo-ob-akkreditacii-specialista-1-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\svidetelstvo-ob-akkreditacii-specialista-1-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/svidetelstvo-ob-akkreditacii-specialista-2-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\svidetelstvo-ob-akkreditacii-specialista-2-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/svidetelstvo-ob-akkreditacii-specialista.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\svidetelstvo-ob-akkreditacii-specialista.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/vypiska-iz-reestra-1-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\vypiska-iz-reestra-1-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/vypiska-iz-reestra-2-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\vypiska-iz-reestra-2-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/vypiska-iz-reestra-licenzij-1-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\vypiska-iz-reestra-licenzij-1-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/lg/vypiska-iz-reestra-licenzij-2-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\lg\vypiska-iz-reestra-licenzij-2-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/diplom-gosudarstvennogo-medicinskogo-instituta.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\diplom-gosudarstvennogo-medicinskogo-instituta.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/diplom-o-professionalnoj-perepodgotovke-2-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\diplom-o-professionalnoj-perepodgotovke-2-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/diplom-o-professionalnoj-perepodgotovke.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\diplom-o-professionalnoj-perepodgotovke.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/prilozhenie-k-diplomu-1-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\prilozhenie-k-diplomu-1-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/prilozhenie-k-diplomu-2-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\prilozhenie-k-diplomu-2-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/prilozhenie-k-diplomu.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\prilozhenie-k-diplomu.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/sertifikat-specialista.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\sertifikat-specialista.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/sertifikat.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\sertifikat.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/svidetelstvo-o-prohozhdenii-povyshenija-kvalifikacii-2-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\svidetelstvo-o-prohozhdenii-povyshenija-kvalifikacii-2-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/svidetelstvo-o-prohozhdenii-povyshenija-kvalifikacii.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\svidetelstvo-o-prohozhdenii-povyshenija-kvalifikacii.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/svidetelstvo-ob-akkreditacii-specialista-1-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\svidetelstvo-ob-akkreditacii-specialista-1-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/svidetelstvo-ob-akkreditacii-specialista-2-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\svidetelstvo-ob-akkreditacii-specialista-2-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/svidetelstvo-ob-akkreditacii-specialista.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\svidetelstvo-ob-akkreditacii-specialista.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/vypiska-iz-reestra-1-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\vypiska-iz-reestra-1-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/vypiska-iz-reestra-2-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\vypiska-iz-reestra-2-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/vypiska-iz-reestra-licenzij-1-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\vypiska-iz-reestra-licenzij-1-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/gallery/items/sm/vypiska-iz-reestra-licenzij-2-stranica.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\gallery\items\sm\vypiska-iz-reestra-licenzij-2-stranica.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/glavnyj-banner1920x600_2.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\glavnyj-banner1920x600_2.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/grafika_statja.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\grafika_statja.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/imamov-aleksandr-salavatovich.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\imamov-aleksandr-salavatovich.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/nazarova-ekaterina-dmitrievna.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\nazarova-ekaterina-dmitrievna.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/nevrolog2.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\nevrolog2.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/piljaeva-albina-ravilevna.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\piljaeva-albina-ravilevna.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/pjataja-polosa-1.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\pjataja-polosa-1.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/pjataja-polosa-2.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\pjataja-polosa-2.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/pjataja-polosa.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\pjataja-polosa.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/psiprofi_favikon-1.ico
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\psiprofi_favikon-1.ico
+Content Type: image/x-icon
+
+Uri: https://psiprofi-medcentr.ru/datafiles/psiprofi_favikon_180x180-1.png
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\psiprofi_favikon_180x180-1.png
+Content Type: image/png
+
+Uri: https://psiprofi-medcentr.ru/datafiles/shutterstock_171728309.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\shutterstock_171728309.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/smirnov-vasilij-lvovich.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\smirnov-vasilij-lvovich.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/usmanova-marjam-ahmetovna.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\usmanova-marjam-ahmetovna.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/vhod-2-__.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\vhod-2-__.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/visiting-psychologis.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\visiting-psychologis.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/voronina-vera-nikolaevna-vrach-psihiatr.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\voronina-vera-nikolaevna-vrach-psihiatr.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/voronina-vera-nikolaevna.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\voronina-vera-nikolaevna.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/vrach_imamov.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\vrach_imamov.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/vrach_nazarova.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\vrach_nazarova.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/vrach_piljaeva.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\vrach_piljaeva.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/vrach_smirnov.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\vrach_smirnov.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/vyzov-psihiatra-na-dom-photo-big.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\vyzov-psihiatra-na-dom-photo-big.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/datafiles/_original.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\datafiles\_original.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/kontakty/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\kontakty\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/licenzii-sertifikaty/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\licenzii-sertifikaty\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/nashi-specialisty/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\nashi-specialisty\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/templates/!page.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\!page.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/!page.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\!page.js
+Content Type: application/javascript
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/animate.min.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\animate.min.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/bootstrap/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\bootstrap\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\bootstrap\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/conformity/conformity.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\conformity\conformity.js
+Content Type: application/javascript
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/conformity/row-conformity.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\conformity\row-conformity.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/conformity/row-conformity.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\conformity\row-conformity.js
+Content Type: application/javascript
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/css/app.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\css\app.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/css/blocks.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\css\blocks.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/css/custom.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\css\custom.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/css/footers/footer-v3.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\css\footers\footer-v3.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/css/headers/header-default.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\css\headers\header-default.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/css/style.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\css\style.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/css/theme-colors/blue-0060aa-logosu.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\css\theme-colors\blue-0060aa-logosu.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/js/app.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/plugins/animate.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\plugins\animate.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/plugins/jquery.parallax.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\plugins\jquery.parallax.js
+Content Type: application/javascript
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/plugins/smoothScroll.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\plugins\smoothScroll.js
+Content Type: application/javascript
+
+Uri: https://psiprofi-medcentr.ru/templates/assets/wow.min.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\assets\wow.min.js
+Content Type: application/javascript
+
+Uri: https://psiprofi-medcentr.ru/templates/ff/form/plugins/Inputmask/dist/min/inputmask/inputmask.min.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\ff\form\plugins\Inputmask\dist\min\inputmask\inputmask.min.js
+Content Type: application/javascript
+
+Uri: https://psiprofi-medcentr.ru/templates/ff/form/plugins/Inputmask/dist/min/inputmask/jquery.inputmask.min.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\ff\form\plugins\Inputmask\dist\min\inputmask\jquery.inputmask.min.js
+Content Type: application/javascript
+
+Uri: https://psiprofi-medcentr.ru/templates/ff/popups/popups.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\ff\popups\popups.js
+Content Type: application/javascript
+
+Uri: https://psiprofi-medcentr.ru/templates/footer.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\footer.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/gallery/items.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\gallery\items.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/image.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\image.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/templates/images/down.png
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\images\down.png
+Content Type: image/png
+
+Uri: https://psiprofi-medcentr.ru/templates/navbar.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\templates\navbar.css
+Content Type: text/css
+
+Uri: https://psiprofi-medcentr.ru/uslugi/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\uslugi\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/uslugi/kodirovanie-ot-alkogolnoj-zavisimosti/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\uslugi\kodirovanie-ot-alkogolnoj-zavisimosti\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/uslugi/kodirovanie-ot-tabachnoj-zavisimosti/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\uslugi\kodirovanie-ot-tabachnoj-zavisimosti\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/uslugi/konsultacija-medicinskogo-psihologa/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\uslugi\konsultacija-medicinskogo-psihologa\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/uslugi/konsultacija-vracha-psihiatra/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\uslugi\konsultacija-vracha-psihiatra\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/uslugi/konsultacija-vracha-psihoterapevta/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\uslugi\konsultacija-vracha-psihoterapevta\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/uslugi/lechenie-alkogolnoj-zavisimosti-preparatom-disulfiram/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\uslugi\lechenie-alkogolnoj-zavisimosti-preparatom-disulfiram\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/uslugi/priem-vracha-nevrologa/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\uslugi\priem-vracha-nevrologa\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/uslugi/priem-vracha-osteopata/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\uslugi\priem-vracha-osteopata\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/uslugi/vyezd-psihiatra-na-dom/
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\uslugi\vyezd-psihiatra-na-dom\index.htm
+Content Type: text/html
+
+Uri: https://psiprofi-medcentr.ru/xfiles/grafika_alkogol.webp
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\xfiles\grafika_alkogol.webp
+Content Type: image/webp
+
+Uri: https://psiprofi-medcentr.ru/xfiles/logo.svg
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\xfiles\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/webp-hero@0.0.0-dev.21/dist-cjs/polyfills.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\webp-hero@0.0.0-dev.21\dist-cjs\polyfills.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/webp-hero@0.0.0-dev.21/dist-cjs/webp-hero.bundle.js
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\webp-hero@0.0.0-dev.21\dist-cjs\webp-hero.bundle.js
+Content Type: application/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/css/all.css
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\psiprofi-medcentr.ru\releases\v5.0.13\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
